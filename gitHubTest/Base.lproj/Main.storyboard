@@ -64,6 +64,9 @@
                                                                         <state key="normal" title="Login">
                                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                         </state>
+                                                                        <connections>
+                                                                            <action selector="loginBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ASp-8f-2b8"/>
+                                                                        </connections>
                                                                     </button>
                                                                     <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4ew-Lr-WZZ">
                                                                         <rect key="frame" x="0.0" y="48" width="295" height="30"/>

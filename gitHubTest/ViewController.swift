@@ -22,9 +22,12 @@ class ViewController: UIViewController {
         
     
     }
-    func(){
+    func setUp(){
     
+        print("")
     }
-
+    @IBAction func loginBtn(_ sender: UIButton) {
+    }
+    
 }
 
